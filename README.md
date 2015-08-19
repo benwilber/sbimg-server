@@ -16,3 +16,5 @@ http://img.streamboat.tv/i.imgur.com/Je6etxd.jpg?zoom=1.5
 ```
 http://img.streamboat.tv/i.imgur.com/Je6etxd.jpg?zoom=1.5&crop=1
 ```
+
+Inspired by, and heavily borrowed from, [this blog post](https://phpb.com/portfolio/create-image-server-with-nginx-lua-openresty-graphicsmagick-part-1/)
