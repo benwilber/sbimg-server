@@ -4,7 +4,7 @@
 # This script bootstraps a new CentOS 7 server for image processing
 
 # The domain name of the site hosting the img processing server
-SITE_NAME="img.streamboat.tv"
+SITE_NAME="your_image_server_hostname"
 
 yum check-update
 yum update -y
