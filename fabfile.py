@@ -1,6 +1,6 @@
 from os.path import dirname, abspath, join as pathjoin
 from fabric.contrib.project import rsync_project
-from fabric.api import *
+from fabric.api import env, run
 
 env.use_ssh_config = True
 env.appdir = abspath(dirname(__file__))
